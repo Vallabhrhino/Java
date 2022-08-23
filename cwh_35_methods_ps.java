@@ -18,7 +18,14 @@ public class cwh_35_methods_ps {
 //        problem 1
 
         multiplication(8);
+        System.out.println("hi");
 
     }
 
 }
+
+
+//problem no 2
+
+
+
