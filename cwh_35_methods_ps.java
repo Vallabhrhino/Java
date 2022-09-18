@@ -13,6 +13,8 @@ public class cwh_35_methods_ps {
         return n;
     }
 
+
+
     public static void main(String[] args) {
 
 //        problem 1
